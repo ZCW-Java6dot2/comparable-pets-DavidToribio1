@@ -8,8 +8,10 @@ public class Hamster extends Pet {
 
     }
 
+
+
     @Override
-    public String speak(){
+    public static String speak(){
         return "squeak";
     }
 }
