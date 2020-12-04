@@ -1,4 +1,4 @@
-
+package io.zipcoder;
 
 public class Hamster extends Pet {
 
